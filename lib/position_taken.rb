@@ -1,5 +1,5 @@
 def position_taken?(board, index)
   if board[index] == " " or board[index].empty?
-    return false 
+    return false
   end
 end
